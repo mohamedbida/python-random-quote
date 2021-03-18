@@ -1,0 +1,53 @@
+[33mcommit b34a930f7f7a4640c3111ad72716a847206c02c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bida <mohamedbida@gmail.com>
+Date:   Thu Mar 18 10:05:09 2021 +0100
+
+    First example
+
+[33mcommit b180cd16966fac41861d1fde003be243fbdf7016[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adam DuVander <adam.duvander@zapier.com>
+Date:   Tue Aug 13 08:22:59 2019 -0700
+
+    Add parens for python3
+
+[33mcommit 8698607a733d8a40bf5dfa6a5e2b53821ee8a574[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Fri Jul 19 10:15:20 2019 -0700
+
+    Update README.md
+
+[33mcommit b3fbc31691f20f9577e728f8a200458e08693c62[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Fri Jul 19 10:14:49 2019 -0700
+
+    Update README.md
+
+[33mcommit 06e883f7426ecbd83c01c8e89e859f0cc336a251[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Wed Jul 17 17:31:15 2019 -0700
+
+    Update quotes.txt
+
+[33mcommit b370c3976333ecaeaaa7a7a0acade7aea1d70ab0[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Wed Jul 17 17:29:10 2019 -0700
+
+    Create get-quote.py
+
+[33mcommit 3cdd7d092d856b9b8dfb7f7981e55177ae616861[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Wed Jul 17 17:28:48 2019 -0700
+
+    Create quotes.txt
+
+[33mcommit 25db5e3665f6a4d5c696653e3519850962f06ee0[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Mon Jul 15 11:08:31 2019 -0700
+
+    Update README.md
+
+[33mcommit 7c831d93c3dfce45bb36e3e5b66d3e4fad430bad[m
+Author: Adam DuVander <adamd@users.noreply.github.com>
+Date:   Fri Jul 12 17:51:48 2019 -0700
+
+    Create README.md
